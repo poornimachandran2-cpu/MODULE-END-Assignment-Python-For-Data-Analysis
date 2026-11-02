@@ -1,2 +1,3 @@
 # MODULE-END-Assignment-Python-For-Data-Analysis
-Social Media Engagement Analytics using Python for data cleaning, EDA, statistical analysis, feature engineering, and visualization to uncover content performance and user engagement insights.
+Social Media Engagement Analytics is a data analytics project that explores social media performance using Python, Pandas, NumPy, Matplotlib, Seaborn, and Plotly. The project includes data cleaning, feature engineering, exploratory data analysis (EDA), statistical analysis, and interactive visualizations to uncover insights related to user engagement, content performance, sentiment trends, audience behavior, and platform usage. Key metrics such as likes, comments, shares, watch time, followers, and engagement rate are analyzed to support data-driven decision-making and social media strategy optimization.
+https://colab.research.google.com/drive/1kprjoFyzCj0UOojco_YmNY-2RQFP69fS?usp=sharing
